@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020/hst-936xs20-th.jpg
+file_size: 18248
 file_type: image/jpeg
 image_metadata:
   caption: The use of mobile phones and devices in healthcare delivery and communication
