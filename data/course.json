@@ -54,9 +54,9 @@
     "website": "global-health-informatics-to-improve-quality-of-care"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Lecture Videos"
   ],
   "site_uid": "0dd8b082-589b-406d-b987-8521430c783e",
-  "site_short_id": "HST.936x-2020"
+  "site_short_id": "HST.936x-2020",
+  "site_url_path": "courses/hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020"
 }
