@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/global-health-informatics-to-improve-quality-of-care/hst-936xs20-th.jpg
+file: /ol-ocw-studio-app/courses/hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020/hst-936xs20-th.jpg
 file_size: 18248
 file_type: image/jpeg
 image_metadata:
