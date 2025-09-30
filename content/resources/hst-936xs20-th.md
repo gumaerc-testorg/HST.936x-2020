@@ -9,8 +9,8 @@ image_metadata:
   caption: The use of mobile phones and devices in healthcare delivery and communication
     is also known as mHealth. Learn about eHealth, Global Informatics, and mHealth
     in Part 2 of this course.
-  credit: Image from [FlyClipart](https://flyclipart.com/health-care-mhealth-mobile-app-development-communication-health-care-electronics-network-computer-hd-png-download-1264294#),
-    License CC-BY-NC.
+  credit: Image from {{% resource_link "5309664b-67cf-44c5-a0cb-74d90cf92aac" "FlyClipart"
+    %}}, License CC-BY-NC.
   image-alt: An illustration of a mobile phone, surrounded by several small icons
     of an ambulance, medical cross symbol, medicine, and first aid kit, representing
     health care apps.
